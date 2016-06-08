@@ -16,7 +16,8 @@
  
 
 ## Analyze and describe the main requirements/features of the product 
-
+* OptiKey is an assistive on-screen keyboard. It is designed to be used with a low cost eye-tracking device to bring keyboard control, mouse control and speech to people with motor and speech limitations. 
+* 
 
 ## Analyze and describe the major or important designs with UML diagrams and or other modeling means
 
